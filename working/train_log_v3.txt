@@ -1,0 +1,6 @@
+backbone: efficientnet_b0 IMAGENET1K_V1 via weights enum
+backbone: efficientnet_b0 IMAGENET1K_V1 via weights enum
+backbone: efficientnet_b0 IMAGENET1K_V1 via weights enum
+backbone: efficientnet_b0 IMAGENET1K_V1 via weights enum
+backbone: efficientnet_b0 IMAGENET1K_V1 via weights enum
+done folds=5 oof_f1=0.7074 lam=0.00 obs=0.8863 raw=0.7790 est_score=0.5579 rows=800

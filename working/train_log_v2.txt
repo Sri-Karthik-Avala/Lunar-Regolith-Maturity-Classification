@@ -1,0 +1,3 @@
+backbone: resnet34 IMAGENET1K_V1 via weights enum
+backbone: resnet34 IMAGENET1K_V1 via weights enum
+backbone: resnet34 IMAGENET1K_V1 via weights enum
